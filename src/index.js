@@ -5,7 +5,7 @@ const Lembrete = require("./model/lembrete");
 
 
 
-const TOKEN = `1938200707:AAFP2NKuXhEyBLYtZRn-V-Xa0Y0DVd3bTXc`
+const TOKEN = ``
 var [emojiList,emojiDel,emojiEdit,emojiSave,emojiRobot,emojiHeart,emojiLemb,emojiTime]=["\u{1F4C3}","\u{274C}","\u{270F}","\u{2705}","\u{1F916}","\u{1F60D}","\u{1F4CC}","\u{1F551}"]
 
 
