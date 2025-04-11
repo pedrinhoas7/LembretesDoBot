@@ -1,5 +1,4 @@
 
-```md
 # 🤖 LembretesDoBot
 
 Um bot simples de Telegram que envia lembretes personalizados diretamente para você. Ideal para ajudar na organização do dia a dia com mensagens automatizadas.
