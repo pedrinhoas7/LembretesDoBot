@@ -14,7 +14,7 @@ Acesse o [BotFather](https://t.me/botfather) no Telegram e siga as instruções 
 
 ### 2. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/LembretesDoBot.git
+git clone https://github.com/pedrinhoas7/LembretesDoBot.git
 cd LembretesDoBot
 ```
 
